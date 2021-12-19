@@ -1,0 +1,8 @@
+instance_create(x,y,obj_particle)
+instance_create(x,y,obj_particle)
+instance_create(x,y,obj_particle)
+instance_create(x,y,obj_particle)
+instance_create(x,y,obj_particle)
+instance_create(x,y,obj_particle)
+instance_create(x,y,obj_particle)
+instance_create(x,y,obj_particle)
